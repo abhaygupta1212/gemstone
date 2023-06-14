@@ -1,0 +1,7 @@
+README.md
+setup.py
+GemstoneProject.egg-info/PKG-INFO
+GemstoneProject.egg-info/SOURCES.txt
+GemstoneProject.egg-info/dependency_links.txt
+GemstoneProject.egg-info/requires.txt
+GemstoneProject.egg-info/top_level.txt
